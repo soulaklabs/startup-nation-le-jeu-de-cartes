@@ -2,24 +2,28 @@
 ## Quoi ?
 
 Start-up Nation est un jeu de société à personnages secrets, librement inspiré du jeu Love Letter.
-
+Il est considéré comme **drôle** par un nombre croissant de joueurs: ceux qui ont eu la chance de l'essayer.
 
 
 ## Pour qui ?
 
-Pour 4 ou 5 joueurs impatients.
+Start-up Nation est un jeu 4 ou 5 joueurs impatients. Chaque partie dure moins de 10 min : 
+moins de temps qu'il ne faut à un Bitcoin pour être découvert.
 
 
 ## Pourquoi ?
 
-Ce jeu est à vocation humoristique. Le rire est son objectif premier.
+Start-up Nation est à vocation humoristique. Le **rire** est son objectif premier.
+Ce jeu n'est **ni de gauche, ni de droite**.
+
 
 
 ## Comment ?
 
 Imprimez le livret de règles et découpez les cartes de votre propre jeu.
 
-Ce jeu est un jeu en croissance constante ! 
+**Start-up Nation est un jeu en croissance constante, grâce à vous les utilisateurs !** 
 
-Imprimez-le et faîtes-nous part de vos retours : avec votre aide nous ferons un meilleur produit.
+**Faîtes-nous part de vos retours** : avec votre aide nous ferons un meilleur produit. 
+Ce qui est notre raison d'être, par delà notre propre existence.
 
