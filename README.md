@@ -1,7 +1,7 @@
 
 ## Quoi ?
 
-Start-up Nation est un jeu de société à personnages secrets, librement inspiré du jeu Love Letter.
+Start-up Nation est un jeu de société à personnages secrets, librement inspiré du jeu [Love Letter](https://boardgamegeek.com/boardgame/129622/love-letter).
 Il est considéré comme **sympa** voire **"Ca tourne"** par un nombre sans cesse croissant de joueurs : ceux qui ont eu la chance de l'essayer.
 
 
