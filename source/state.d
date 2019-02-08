@@ -19,6 +19,7 @@ class GameState
     this(int numPlayers)
     {
         pioche = makeDeck(numPlayers);
+        randomShuffle(pioche);
 
         foreach(i; 0..numPlayers)
         {
@@ -45,26 +46,16 @@ class GameState
 // make a deck for N players
 CardInstance[] makeDeck(int numPlayers)
 {
-    CardInstance[] deck;    
-    assert(numPlayers == 4 || numPlayers == 5);
-    if (numPlayers == 4)
-    {
-        foreach(int t, const(CharacterType) type; allCharacterTypes)
-        {
-            foreach(m; 0..multiplicity4Players[t])
-                deck ~= new CardInstance(type);
-        }
-    }
-    else if (numPlayers == 5)
-    {
-        foreach(int t, const(CharacterType) type; allCharacterTypes)
-        {
-            foreach(m; 0..multiplicity5Players[t])
-                deck ~= new CardInstance(type);
-        }
-    }
+    CardInstance[] deck;
+    assert(numPlayers >= MIN_PLAYERS && numPlayers <= MAX_PLAYERS);
+    
+    const(int[]) multiplicity = getMultiplicities(numPlayers);
 
-    deck.randomShuffle; 
+    foreach(int t, const(CharacterType) type; allCharacterTypes)
+    {
+        foreach(m; 0..multiplicity[t])
+            deck ~= new CardInstance(type);
+    }
     return deck;
 }
 
