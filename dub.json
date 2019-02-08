@@ -1,0 +1,8 @@
+{
+    "name": "startup-nation",
+
+	"dependencies":
+	{
+	    "printed": "~>0.0"
+	}
+}
