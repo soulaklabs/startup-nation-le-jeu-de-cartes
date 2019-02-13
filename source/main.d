@@ -15,7 +15,14 @@ import character;
 
 void main()
 {
-    printADeck();
+    // Simulates a game
+    GameState game = new GameState(5);
+
+    while (!game.finished)
+    {
+        game.playATurn();
+    }
+    game.displayWinners();
 }
 
 void printADeck()
