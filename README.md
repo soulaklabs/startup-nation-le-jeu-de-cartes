@@ -7,7 +7,7 @@ Il est considéré comme **sympa** voire **"Ca tourne"** par un nombre sans cess
 
 ## Pour qui ?
 
-Start-up Nation est un jeu rapide pour 4 ou 5 joueurs impatients. Chaque partie dure moins de 10 min : 
+Start-up Nation est un jeu rapide pour 4 ou 5 joueurs impatients. Chaque manche dure moins de 10 min : 
 moins de temps qu'il ne faut à un Bitcoin pour être découvert.
 
 
